@@ -76,7 +76,7 @@ const CarouselView = () => {
                         {river.title}
                       </div>
                       <div>
-                        <p className="max-h-32 overflow-scroll text-gray-700 text-base">
+                        <p className="max-h-32 overflow-scroll text-base">
                         {river.description}
                       </p>
                       </div>
